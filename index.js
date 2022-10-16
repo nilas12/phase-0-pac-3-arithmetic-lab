@@ -16,6 +16,7 @@ function increment(n) {
 function decrement(n) {
   return n -1;
 }
+/* I could not make function makeInt */
 function makeInt(a,b) {
   return parseInt [('0x2328',10), ('sldkjflksjf', 10), (a,b)] ;
 }
